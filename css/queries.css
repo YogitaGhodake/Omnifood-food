@@ -167,11 +167,11 @@ Instead, 1 rem = 1em = 16px */
         font-size: 3rem;
     }
 
-    .icon-mobile-nav[name='close-outline'] {
+    .nav-open .icon-mobile-nav[name='close-outline'] {
         display: block;
     }
 
-    .icon-mobile-nav[name='menu-outline'] {
+    .nav-open .icon-mobile-nav[name='menu-outline'] {
         display: none;
     }
 }
